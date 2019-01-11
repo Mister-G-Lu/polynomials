@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Goodwin Lu\Documents\c++\P4\CMakeFiles\2cdcbff382fc43a9560c6a6d373181c1\submission.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Goodwin Lu\Documents\c++\P4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Goodwin Lu\Documents\c++\P4\CMakeFiles\submission" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F146208A-FD44-39D9-A6EE-0581BB951070}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
